@@ -1,7 +1,7 @@
 - 👋 Hi, Brayden Gardner 
 - 👀 I’m interested in Working out, Coding, and Learning 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++, HTML, C, Pyhto
+- 💞️ I’m looking to collaborate on creating IOS and Andriod apps
 - 📫 How to reach me: Find me on LinkedIn at BraydenGardner
 
 <!---
