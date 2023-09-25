@@ -2,7 +2,7 @@ braydenjgardner/README.md
 
 Hey I am Brayden.
 
-```
+```bash
 BBBB   JJJJJ   GGGG
 B   B    J    G
 BBBB     J    G  GG
